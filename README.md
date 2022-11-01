@@ -6,7 +6,7 @@ single day my skilss like developer and currently I'm learning english on my own
 found something that can help 
 
 SEE YOU NEXT DEVELOPERS!
-[banerLinux](https://user-images.githubusercontent.com/50090511/188535138-4e692ee2-838e-4082-8e2f-288ab46772b5.jpg)
+![banerLinux](https://user-images.githubusercontent.com/50090511/188535138-4e692ee2-838e-4082-8e2f-288ab46772b5.jpg)
 
 
 <!--
