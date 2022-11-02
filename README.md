@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-##Hi everyone, its me Alexis López I'm software developer and want to share with you
+## Hi everyone, its me Alexis López I'm software developer and want to share with you
 my work like developer, I'm so exited because I love the programming, and try to better every
 single day my skilss like developer and currently I'm learning english on my own, I hope that you can
-found something that can help 
+found something that can help ##
 
 SEE YOU NEXT DEVELOPERS!
 ![banerLinux](https://user-images.githubusercontent.com/50090511/188535138-4e692ee2-838e-4082-8e2f-288ab46772b5.jpg)
