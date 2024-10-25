@@ -1,6 +1,10 @@
 ### Hi there 👋
 
-## Hi everyone, it's me, Alexis López. I'm a full-stack developer. I have 3 years of experience working with Node.js, Angular, JavaScript, TypeScript, PostgreSQL, and 2 years of experience with NestJS, Linux, deployments like CI/CD, and server administration services such as Nginx, PostgreSQL, Samba, maintaining firewalls. I'm also studying Data Science because I find it very interesting how companies can make decisions based on data##
+## Hi everyone, it's me, Alexis López. I'm a full-stack developer. I have 3 years of experience working with Node.js, Angular, JavaScript, TypeScript, PostgreSQL, and 2 years of experience with NestJS, Linux, deployments like CI/CD, and server administration services such as Nginx, PostgreSQL, Samba, maintaining firewalls. I'm also studying Data Science because I find it very interesting how companies can make decisions based on data ##
+
+- 🔭 I’m currently working on Diverzu S.A ...
+- 🌱 I’m currently learning Data Science at Platzi ...
+- 👯 I’m looking to collaborate on new app with AI ...
 
 SEE YOU NEXT DEVELOPERS!
 ![banerLinux](https://user-images.githubusercontent.com/50090511/188535138-4e692ee2-838e-4082-8e2f-288ab46772b5.jpg)
