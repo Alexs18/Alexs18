@@ -35,7 +35,7 @@ I’m open to:
 ---
 
 ### 📫 Reach Me
-- LinkedIn: [linkedin.com/in/tu-link](https://www.linkedin.com/in/alexis-l%C3%B3pez-76b772223/) *(actualiza con tu link real)*
+- LinkedIn: [linkedin.com/in/tu-link](https://www.linkedin.com/in/alexis-l%C3%B3pez-76b772223/)
 - Email: alexlopezdev99@gmail.com
 
 ---
